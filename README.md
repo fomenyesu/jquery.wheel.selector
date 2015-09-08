@@ -1,6 +1,6 @@
-#JQSelector#
+#JQSelector# (jQuery select)
   
-  JQSelector -- a jQuery plugin that popup an modal as an Ios like selector depending on jquery and iscroll.
+  JQSelector -- a jQuery select plugin that popup an modal as an Ios like selector depending on jquery and iscroll.
     
   Here Is the [livedemo](http://codepen.io/fomenyesu/pen/jbPLzd);
 
