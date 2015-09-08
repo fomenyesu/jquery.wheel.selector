@@ -1,6 +1,6 @@
 #JQSelector# (jQuery select)
   
-  JQSelector -- a jQuery select plugin that popup an modal as an Ios like selector depending on jquery and iscroll. Create an excellence experience in Mobile and Hybird App.
+  JQSelector -- a jQuery select and touch plugin that popup an modal as an Ios like selector depending on jquery and iscroll. Create an excellence experience in Mobile and Hybird App. 
   
     
   Here Is the [livedemo](http://codepen.io/fomenyesu/pen/jbPLzd);
